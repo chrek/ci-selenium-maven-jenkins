@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.criscar.ci_selenium_maven_jenkins.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.608 s - in com.criscar.ci_selenium_maven_jenkins.AppTest

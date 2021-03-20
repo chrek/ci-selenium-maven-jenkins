@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="311" started-at="2021-03-20T18:33:53 CET" finished-at="2021-03-20T18:33:53 CET">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="311" started-at="2021-03-20T18:33:53 CET" finished-at="2021-03-20T18:33:53 CET">
+      <class name="com.criscar.ci_selenium_maven_jenkins.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()" name="shouldAnswerWithTrue" duration-ms="45" started-at="2021-03-20T18:33:53 CET" finished-at="2021-03-20T18:33:53 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- com.criscar.ci_selenium_maven_jenkins.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
